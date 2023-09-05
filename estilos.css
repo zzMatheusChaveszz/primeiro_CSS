@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(235, 236, 245);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav{
+    background-color: rgb(9, 9, 138);
+    color: aliceblue;
+    height: 12vh;
+}
+a{
+    color: aliceblue;
+    font-size: 33px;
+}
+footer{
+    font-size: 20px;
+    background-color: rgb(54, 56, 187);
+    color: aliceblue;
+    height: 12vh;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+h1{
+    border-radius: 55px;
+    border: solid black;
+    background-color: rgb(49, 37, 153);
+    color: aliceblue;
+}
